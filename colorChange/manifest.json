@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Color Change",
+    "version": "1.0.0",
+    "permissions": ["activeTab"], 
+    "content_scripts": [{
+        "matches": ["<all_urls>"], 
+        "js": ["popup.js"],
+        "css": ["popup.css"]
+      }],
+      "action":{
+        "default-icon":"images.png"
+      }
+}t

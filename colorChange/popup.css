@@ -1,0 +1,13 @@
+/* Add this CSS to your stylesheet */
+.rainbow {
+   
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(14,169,24,1) 35%, rgba(0,212,255,1) 100%);
+  font-weight: 50;
+    color: transparent;
+    display: inline;
+    -webkit-background-clip: text; /* For WebKit browsers, including Safari and Chrome */
+    background-clip: text; /* Standard property for non-WebKit browsers */
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Optional: Add a shadow for better contrast */
+  }
+  
