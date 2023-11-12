@@ -18,3 +18,4 @@ To customize the extension to match different words or colors, modify the replac
 # Examples 
 
 ![Screenshot (66)](https://github.com/Bindubn001/color-change-chrome-extension/assets/104840116/838c1432-7b47-4518-8ca9-5879a54350b5)
+![Screenshot (67)](https://github.com/Bindubn001/color-change-chrome-extension/assets/104840116/b7a02217-29ec-4120-be8e-e01ed062f4f2)
